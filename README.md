@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Sagar Burman
 
+💻 BCA (AI & Data Analytics)
+
+🌱 Learning MERN Stack
+
+🚀 Open Source Enthusiast
+
+## Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 <!--
 **Sagar-Burman/Sagar-Burman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
