@@ -1,31 +1,135 @@
-# Hi 👋 I'm Sagar Burman
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=8AB6D6&height=260&section=header&text=Aditya%20Thakur&fontSize=46&fontColor=0D1117&fontAlignY=36&desc=成長中%20%7C%20Growing&descSize=16&descAlignY=58&animation=fadeIn)
 
-💻 BCA (AI & Data Analytics)
+<h3 align="center">
+Backend / Full-Stack Engineer • Real-Time & AI-Integrated Systems
+</h3>
 
-🌱 Learning MERN Stack
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8AB6D6&center=true&vCenter=true&width=600&lines=Building+real-time%2C+low-latency+systems;WebSockets+%2B+AI+orchestration+%2B+secure+APIs;Shipped%3A+healthcare+ops%2C+AR%2FXR%2C+agentic+AI;Always+shipping+something+new+at+hackathons" alt="Typing SVG" />
+  </a>
+</p>
 
-🚀 Open Source Enthusiast
+<p align="center">
+<i>
+I write Python, TypeScript, and Java — the compiler is my most honest reviewer ~
+</i>
+</p>
 
-## 💻 Tech Stack
+<p align="center">
+<i>成長中</i>
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p align="center">
+  <img
+    src="banner.gif"
+    alt="Pixel developer workspace at night"
+    width="850"
+  />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+🎓 **B.Tech Computer Science Engineering** (Final Year)
+**- GITAM Deemed University** (2023 – 2027)
+
+- Backend/full-stack engineer specializing in **real-time systems** (WebSockets, audio pipelines) and **AI-integrated services** (speech-to-text, translation, multi-agent orchestration)
+- Shipped production-facing systems across **healthcare operations, AR/XR translation, and multi-agent market intelligence**
+- 230+ LeetCode problems solved (Java) — DSA fundamentals stay sharp alongside the systems work
+- Disciplined, consistent, long-term focused
+
+---
+
+## 🚀 Featured Work
+
+**[ERFlow](https://github.com/AdityaThakur193/ERFlow)** — Full-stack ER operations dashboard ([live demo](https://er-flow-kappa.vercel.app/))
+Next.js, React, MongoDB · atomic doctor-patient assignment APIs · RBAC middleware · cut assignment time from ~10-15 min to under 10 sec
+
+**ConverseNow** — Real-time speech-to-sign translation for AR/XR
+FastAPI, WebSockets, Whisper, Sarvam AI, Unity · ~200ms audio processing latency · ISL gloss-generation with fingerspelling fallback
+
+**[Udyama-AI](https://github.com/AdityaThakur193/Udyama-Ai)** — Multi-agent market intelligence system
+CrewAI, Gemini 2.5-Flash · 5-agent sequential workflow · self-repairing JSON pipeline, 100% valid output across 17 test runs
+
+**[MannPasandMovies](https://github.com/AdityaThakur193/MannPasandMovies)** — Full-stack movie discovery platform ([live demo](https://mann-pasand-movies.vercel.app/))
+React, Express, MongoDB, Passport.js · Helmet/rate-limiting/input validation · 77 passing automated tests (Jest + Vitest)
+
+**LectureIQ** — AI lecture-to-study-guide platform (Gemini 3 Hackathon 2026, Team Lead)
+FastAPI, Docker, Whisper, Gemini · converts lecture video into notes, flashcards, and quizzes
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,ts,react,nextjs,tailwindcss,nodejs,express,fastapi,mongodb,docker,git,github,vercel,vscode&theme=dark" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sagar-Burman&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AdityaThakur193&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdityaThakur193&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagar-Burman&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AdityaThakur193&theme=radical&hide_border=true" />
+</p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaThakur193&theme=radical&hide_border=true)](https://github.com/AdityaThakur193)
+
+<p align="center">
+<i>Consistency over intensity — building one commit at a time.</i>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaThakur193/AdityaThakur193/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🎯 Open For
+
+- 💼 **Backend / Full-Stack Engineer** roles (2026 grad hiring, India)
+- 🧠 Roles building **real-time systems** or **AI-integrated products**
+- 🏆 Hackathons & collaborative projects
+- 🌱 Open-source contributions
+
+---
+
+## 💬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-thakur193/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AdityaThakur193" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="32" />
+  </a>
+  &nbsp;
+  <a href="mailto:adityath2305@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.adityathakur.me/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-1E2328?style=for-the-badge" height="32" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+<i>「強い基礎がすべてを支える」
+— strong fundamentals support everything</i>
+</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8AB6D6&height=140&section=footer)
