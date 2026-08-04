@@ -129,7 +129,7 @@ FastAPI, Docker, Whisper, Gemini · converts lecture video into notes, flashcard
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,postman,figma,linux,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,git,github,vscode,postman,figma,linux,vercel&theme=dark" />
 
 <br><br>
 
