@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=260&section=header&text=Sagar%20Burman&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Full-Stack%20Developer%20%7C%20BCA%20(AI%20%26%20Data%20Analytics)&descSize=18&descAlignY=60&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=8AB6D6&height=260&section=header&text=Aditya%20Thakur&fontSize=46&fontColor=0D1117&fontAlignY=36&desc=成長中%20%7C%20Growing&descSize=16&descAlignY=58&animation=fadeIn)
 
 <h3 align="center">
 Backend / Full-Stack Engineer • Real-Time & AI-Integrated Systems
