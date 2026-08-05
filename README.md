@@ -25,6 +25,8 @@
 
 <br />
 
+---
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xsZTdkNTU0dGJkbmQ2Z2xxY2l1YmhkZnRqZHF2ZjJocjBzdnQyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="30"> &nbsp;Tech Stack
 
 <p align="center">
@@ -35,6 +37,7 @@
 
 <!-- 🚀 Featured Projects  -->
 
+---
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;Stats &nbsp; 
 
@@ -50,6 +53,14 @@
 </table>
 
 [![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Burman&theme=tokyo-night)](https://github.com/Sagar-Burman)
+
+<p align="center">
+<i>Consistency over intensity — building one commit at a time.</i>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXFkc2RrbXplYmJ1YmhxaWdmbDNweGhwdmNsZ3Vhc3c0Njd6aTRiOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fQJSXBLyLmFDcpzpe8/giphy.gif" width="30"> &nbsp; Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sagar-Burman/Sagar-Burman/output/snake.svg" alt="Snake animation" />
