@@ -50,15 +50,21 @@
 <br />
 <br />
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Burman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Burman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Burman&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://githubcard.com/Sagar-Burman.svg?d=LibzHXmP" alt="GitHub Stats" height="180" />
+      </td>
+      <td>
+        <img src="https://githubcard.com/Sagar-Burman.svg?d=1ESMxdLN" alt="Top Languages" height="180" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <br />
