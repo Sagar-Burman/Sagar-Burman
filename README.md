@@ -51,7 +51,6 @@
 
 ---
 
-
 <br />
 
  ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ2cHQ3dWZhOTMwMm42NWM5Y3BxbHE4bmoyNnVjOGpmbzd5N25ybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wOFpybCnjrxrgVabX0/giphy.gif" width="30"> &nbsp;Quote of the Day <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRmYjg2d2xsbXUxdzhneHgxZWoxMng3bnVkZnNvYXM3N3p5cTU3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NBf1M1QmgODBwISeph/giphy.gif" width="30">
@@ -62,7 +61,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+## 🤝 Let's Connect
 💬 *"Feel free to reach out for collaborations, opportunities, or just a tech conversation!"*
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
