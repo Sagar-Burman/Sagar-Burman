@@ -38,11 +38,16 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;Stats &nbsp; 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight" height="170"/>
-  <img src="https://leetcard.jacoblin.cool/SagarBurman?theme=dark&font=baloo" height="170"/>
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight" height="160"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/SagarBurman?theme=dark&font=baloo" height="160"/>
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sagar-Burman/Sagar-Burman/output/snake.svg" alt="Snake animation" />
 </p>
