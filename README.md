@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:347DFF&height=250&section=header&text=Hello!%20I'm%20Sagar%20Burman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer%20%7C%20System%20Designer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:347DFF&height=250&section=header&text=Hello!%20I'm%20Sagar%20Burman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20GenAI%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 <!-- Animated Intro -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=347DFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+scalable+systems+with+confidence+%F0%9F%9A%80" alt="Typing SVG" />
@@ -23,7 +23,7 @@
  
  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me 
 
-> I am a **Full Stack Developer** passionate about building **scalable** and **user-friendly** web applications. I enjoy working across both **frontend** and **backend** technologies, turning **ideas** into functional and **efficient solutions**. Along with web development, I have a strong interest in **Artificial Intelligence**, **Data Analytics**, and **modern software technologies**. I am continuously **learning**, **building projects**, and **improving my skills** to grow as a developer and technology professional.
+> I am an **Aspiring AI Full-Stack Developer** passionate about building **scalable**, **user-friendly**, and **efficient** web applications. I enjoy working across both **frontend** and **backend** technologies, transforming ideas into practical solutions. Alongside web development, I have a strong interest in **Artificial Intelligence**, **Data Analytics**, and **modern software technologies**. I am continuously learning, building impactful projects, and sharpening my problem-solving skills to grow as a software developer and contribute to innovative solutions.
 
 <br />
 
@@ -34,8 +34,9 @@
 </p>
 <br />
 
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;Stats &nbsp; 
 
-#<p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight" height="170"/>
   <img src="https://leetcard.jacoblin.cool/SagarBurman?theme=dark&font=baloo" height="170"/>
 </p>
