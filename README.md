@@ -53,14 +53,13 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;Stats &nbsp;
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Burman&theme=tokyonight" height="150"/>
+  <img src="https://leetcard.jacoblin.cool/SagarBurman?theme=dark&font=baloo" height="150"/>
 </p>
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Burman&layout=donut&theme=tokyonight&hide_border=true"/>
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Sagar-Burman&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/Sagar-Burman/Sagar-Burman/output/snake.svg" alt="Snake animation" />
 </p>
-
 
 <br />
 
