@@ -41,19 +41,19 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight" height="160"/>
+      <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight" height="220"/>
     </td>
     <td>
-      <img src="https://leetcard.jacoblin.cool/SagarBurman?theme=dark&font=baloo" height="160"/>
+      <img src="https://leetcard.jacoblin.cool/SagarBurman?theme=dark&font=baloo" height="220"/>
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sagar-Burman/Sagar-Burman/output/snake.svg" alt="Snake animation" />
-</p>
 
 [![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Burman&theme=tokyo-night)](https://github.com/Sagar-Burman)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sagar-Burman/Sagar-Burman/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
