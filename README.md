@@ -20,27 +20,10 @@
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+ 
+ ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
-
-I am a **Full Stack Developer** passionate about building **scalable** and **user-friendly** web applications. I enjoy working across both **frontend** and **backend** technologies, turning **ideas** into functional and **efficient solutions**.
-
-Along with web development, I have a strong interest in **Artificial Intelligence**, **Data Analytics**, and **modern software technologies**. I am continuously **learning**, **building projects**, and **improving my skills** to grow as a developer and technology professional.
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="330">
-
-</td>
-</tr>
-</table>
-
----
+> I am a **Full Stack Developer** passionate about building **scalable** and **user-friendly** web applications. I enjoy working across both **frontend** and **backend** technologies, turning **ideas** into functional and **efficient solutions**. Along with web development, I have a strong interest in **Artificial Intelligence**, **Data Analytics**, and **modern software technologies**. I am continuously **learning**, **building projects**, and **improving my skills** to grow as a developer and technology professional.
 
 <br />
 
