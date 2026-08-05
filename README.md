@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:347DFF&height=250&section=header&text=Hii!%20%20I'm%20Sagar%20Burman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer%20%7C%20System%20Designer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:347DFF&height=250&section=header&text=Hello!%20I'm%20Sagar%20Burman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer%20%7C%20System%20Designer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 <!-- Animated Intro -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=347DFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+scalable+systems+with+confidence+%F0%9F%9A%80" alt="Typing SVG" />
