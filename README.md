@@ -35,21 +35,6 @@
 <br />
 
 
-
-
-
-
-
-
-
-
-
-
-
-<br />
-<br />
-
-
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;Stats &nbsp;
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight&hide_border=true" height="150"/>
