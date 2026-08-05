@@ -54,19 +54,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Burman&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <table>
-    <tr>
-      <td>
-        <img src="https://githubcard.com/Sagar-Burman.svg?d=LibzHXmP" alt="GitHub Stats" height="180" />
-      </td>
-      <td>
-        <img src="https://githubcard.com/Sagar-Burman.svg?d=1ESMxdLN" alt="Top Languages" height="180" />
-      </td>
-    </tr>
-  </table>
 </p>
 
+<table align="center">
+<tr>
+<td>
+<img src="https://githubcard.com/Sagar-Burman.svg?d=LibzHXmP" height="180"/>
+</td>
+<td>
+<img src="https://githubcard.com/Sagar-Burman.svg?d=1ESMxdLN" height="180"/>
+</td>
+</tr>
+</table>
 <br />
 
  ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ2cHQ3dWZhOTMwMm42NWM5Y3BxbHE4bmoyNnVjOGpmbzd5N25ybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wOFpybCnjrxrgVabX0/giphy.gif" width="30"> &nbsp;Quote of the Day <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRmYjg2d2xsbXUxdzhneHgxZWoxMng3bnVkZnNvYXM3N3p5cTU3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NBf1M1QmgODBwISeph/giphy.gif" width="30">
