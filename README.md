@@ -31,6 +31,13 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,mysql,git,github,vscode,figma,postman,docker,linux,vercel,netlify&theme=dark" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
 </p>
 <br />
 
