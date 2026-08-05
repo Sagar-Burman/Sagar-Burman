@@ -34,18 +34,17 @@
 </p>
 <br />
 
-<details>
-<summary><b>📘 Core Concepts & Practices</b></summary>
-<br>
 
-| Category | Skills |
-|----------|--------|
-| **Core CS** | Data Structures · Algorithms · OOP · Operating Systems · Multithreading |
-| **System Design** | Distributed Systems · Microservices · REST Architecture · Scalability |
-| **AI & Data** | Basic Machine Learning · Data Processing Systems |
-| **Practices** | Agile · TDD · Code Reviews · Performance Optimization · Debugging |
 
-</details>
+
+
+
+
+
+
+
+
+
 
 <br />
 <br />
