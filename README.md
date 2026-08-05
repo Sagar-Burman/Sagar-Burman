@@ -50,11 +50,17 @@
 <br />
 <br />
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;Stats &nbsp; 
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavraj26&theme=default)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Burman&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Burman&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Burman&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavraj26)](https://github.com/vaibhavraj26/github-profile-trophy) 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sagar-Burman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 <br />
 
