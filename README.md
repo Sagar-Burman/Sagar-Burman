@@ -39,15 +39,18 @@
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;Stats &nbsp; 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight" height="170"/><img src="https://leetcard.jacoblin.cool/SagarBurman?theme=dark&font=baloo" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight" height="170"/>
+  <img src="https://leetcard.jacoblin.cool/SagarBurman?theme=dark&font=baloo" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sagar-Burman/Sagar-Burman/output/snake.svg" alt="Snake animation" />
 </p>
 
 [![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Burman&theme=tokyo-night)](https://github.com/Sagar-Burman)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sagar-Burman/Sagar-Burman/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 <br />
 
