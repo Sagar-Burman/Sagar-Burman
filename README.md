@@ -53,13 +53,12 @@
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW92djBrcTRtNTV5ODNrbmphMnAxcGxyajh1czZpajljbHpyaGF0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l02VxIlpX9XzzmoGBu/giphy.gif" width="30"> &nbsp;GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Burman&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Burman&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Burman&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Sagar-Burman&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Burman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sagar-Burman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Burman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
 <br />
