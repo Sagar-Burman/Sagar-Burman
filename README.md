@@ -27,66 +27,41 @@
 
 <br />
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xsZTdkNTU0dGJkbmQ2Z2xxY2l1YmhkZnRqZHF2ZjJocjBzdnQyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="30"> &nbsp;Languages • Frameworks • Tools
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xsZTdkNTU0dGJkbmQ2Z2xxY2l1YmhkZnRqZHF2ZjJocjBzdnQyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="30"> &nbsp;Tech Stack
 
-![Core Languages](https://img.shields.io/badge/Core%20Languages-3B82F6?style=social)
+<p align="center">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
+<img src="https://cdn.simpleicons.org/axios" width="45" />
+<img src="https://cdn.simpleicons.org/reactrouter" width="45" />
+<img src="https://cdn.simpleicons.org/framer" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+<img src="https://cdn.simpleicons.org/fastapi" width="45" />
+<img src="https://cdn.simpleicons.org/openapiinitiative" width="45" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+<img src="https://cdn.simpleicons.org/sqlite" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+<img src="https://cdn.simpleicons.org/linux" width="45" />
+<img src="https://cdn.simpleicons.org/vercel" width="45" />
+<img src="https://cdn.simpleicons.org/netlify" width="45" />
+<img src="https://cdn.simpleicons.org/render" width="45" />
 
-![Frontend](https://img.shields.io/badge/Frontend-38BDF8?style=social)
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
-  <img src="https://cdn.simpleicons.org/axios" width="45" />
-  <img src="https://cdn.simpleicons.org/reactrouter" width="45" />
-  <img src="https://cdn.simpleicons.org/framer" width="45" />
-</p>
-
-![Backend](https://img.shields.io/badge/Backend-22C55E?style=social)
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
-  <img src="https://cdn.simpleicons.org/fastapi" width="45" />
-  <img src="https://cdn.simpleicons.org/openapiinitiative" width="45" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens" width="45" />
-</p>
-
-![Databases](https://img.shields.io/badge/Databases-F59E0B?style=social)
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/sqlite" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-</p>
-
-![Tools](https://img.shields.io/badge/Tools-A855F7?style=social)
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
-  <img src="https://cdn.simpleicons.org/linux" width="45" />
-</p>
-
-![Deployment](https://img.shields.io/badge/Deployment-E11D48?style=social)
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/vercel" width="45" />
-  <img src="https://cdn.simpleicons.org/netlify" width="45" />
-  <img src="https://cdn.simpleicons.org/render" width="45" />
 </p>
 
 <br />
