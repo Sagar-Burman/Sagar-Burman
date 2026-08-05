@@ -44,6 +44,11 @@
   <img src="https://leetcard.jacoblin.cool/SagarBurman?theme=dark&font=baloo" height="170"/>
 </p>
 
+## 📈 Contribution Graph
+
+[![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Burman&theme=tokyo-night)](https://github.com/Sagar-Burman)
+
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sagar-Burman/Sagar-Burman/output/snake.svg" alt="Snake animation" />
 </p>
